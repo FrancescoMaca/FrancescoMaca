@@ -1,0 +1,13 @@
+C:\Users\franc\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\franc\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Crypto.resources
+C:\Users\franc\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\franc\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\franc\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Crypto.exe.config
+C:\Users\franc\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Crypto.exe
+C:\Users\franc\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Crypto.pdb
+C:\Users\franc\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Crypto.exe
+C:\Users\franc\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Crypto.pdb
+C:\Users\franc\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\en\Crypto.resources.dll
+C:\Users\franc\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Crypto.en.resources
+C:\Users\franc\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\en\Crypto.resources.dll
+C:\Users\franc\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Crypto_Help.resources
