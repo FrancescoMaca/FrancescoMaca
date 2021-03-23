@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @FrancescoMaca
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning basic algorithms
-- 💞️ I’m looking to collaborate on many projects (c# or java)
-- 📫 How to reach me? Send me a mail at francescomaca93@gmail.com
+Hello, buddy! 👋
+I am Francesco Macaluso. I'm currently studying at a IT technical institute in Friuli, IT. I am a beginner developer skilled in Java, C# and C. 
 
-<!---
-FrancescoMaca/FrancescoMaca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 What do I do and What have I done?
+
+⚡ One line that describes me best?
+
+
+📫 How to reach me?
+[LinkedIn] (https://www.linkedin.com/in/francesco-macaluso/)
+[My Porjects] (https://github.com/FrancescoMaca?tab=repositories)
+[Instagram] (https://www.instagram.com/franky_maca/)
+You can contact me through one of my social media. I am always interested in collaborations , learning new things and programming useful applications!
