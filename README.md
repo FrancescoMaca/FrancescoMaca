@@ -18,9 +18,21 @@ You can contact me through one of my social media. I am always interested in col
 
 ## My Projects 📦
 
-### Tic Tac Toe
+### Tic Tac Toe AI
+##### **Language:** Java
 
 I did this project back in 2020 when I started coding in Java. A friend of mine helped me implementing the Minimax Algorithm. I had previous knowledge of C# so the transition to Java was easy, but still this project introduced me to a new way of debugging the code using JUnit and other.
 I made this project with Eclipse IDE.
 
 <img src="https://github.com/FrancescoMaca/FrancescoMaca/blob/main/images/tictactoe.png" alt="Tic Tac Toe Image" width="350" height="350">
+
+### Sudoku Solver
+##### **Language:** Java
+
+Right After the Tic Tac Toe AI Project in 2020, I started studying another algorithm, it was the Backtracking Algorithm. This one isn't totally finished, I wanted to add a better graphic and more features to it. With the starting of school I started to have no free time to do so. If you want you can download my code in my Java repository and add whatever feature you'd like! 
+
+<img src="https://github.com/FrancescoMaca/FrancescoMaca/blob/main/images/sudoku.png" alt="Sudoku Image" width="350" height="350">
+
+### Crypto
+
+This is my best project so far. 
