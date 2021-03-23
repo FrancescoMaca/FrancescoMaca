@@ -23,4 +23,4 @@ You can contact me through one of my social media. I am always interested in col
 I did this project back in 2020 when I started coding in Java. A friend of mine helped me implementing the Minimax Algorithm. I had previous knowledge of C# so the transition to Java was easy, but still this project introduced me to a new way of debugging the code using JUnit and other.
 I made this project with Eclipse IDE.
 
-![](https://github.com/FrancescoMaca/FrancescoMaca/blob/main/images/tictactoe.png | width=250)
+![](https://github.com/FrancescoMaca/FrancescoMaca/blob/main/images/tictactoe.png)
