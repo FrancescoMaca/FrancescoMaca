@@ -1,11 +1,11 @@
 ## Hello, buddy! 👋
 I am Francesco Macaluso. I'm currently studying at a IT technical institute 💻 in Friuli, IT. I am a beginner developer skilled in Java, C# and C. 
 
-**What do I do and What have I done?** 🌱 
+## What do I do and What have I done? 🌱 
 
 So far I did projects on my own about sorting algorithms, games, basic desktop application and Android app development.  
 
-**One line that describes me best?** ⚡
+## One line that describes me best? ⚡
 
 
 **How to reach me?** 📫 
