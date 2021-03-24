@@ -9,7 +9,6 @@ So far I did projects on my own about sorting algorithms, games, basic desktop a
 
 
 **How to reach me?** 📫 
-
 - [LinkedIn](https://www.linkedin.com/in/francesco-macaluso/) 💻
 - [My Porjects](https://github.com/FrancescoMaca?tab=repositories) 📜
 - [Instagram](https://www.instagram.com/franky_maca/) 📷
