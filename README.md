@@ -6,9 +6,9 @@ So far I did projects on my own about sorting algorithms, games, basic desktop a
 
 ## List 5 adjectives that describe you the most: 🎭
 - Ambitious
-- Reliable
+- Reliable 
 - Industrious
-- Charismatic
+- Charismatic 
 - Straight-forward 
 
 **How to reach me?** 📫 
@@ -42,3 +42,8 @@ This is my best project with a purpose so far. It encodes one or multiple file w
 I really like this one because of the graphics I've made and the small details I've added such as opening directory when you click on the window's title. It's not 100% bug-free but the major ones have been fixed in previous version of the program.
 
 <img src="https://github.com/FrancescoMaca/FrancescoMaca/blob/main/images/Crypto.png" alt="Crypto Image" width="266" height="325" align="center"> <img src="https://github.com/FrancescoMaca/FrancescoMaca/blob/main/images/Crypto_encoding.png" alt="Crypto Encoding Image" width="266" height="325" align="center"> <img src="https://github.com/FrancescoMaca/FrancescoMaca/blob/main/images/Crypto_help.png" alt="Crypto Help Image"  width="266" height="193" align="center">
+
+### Algorithm Visualizer
+##### **Language:** C#
+
+This is an ongoing project I'll try to create a graph that monitors the sorting of an array. The user will be able to pause the sorting or to do one sorting step at the time. But all this is just features that I'll need to add in the future. I'm currently using Windows Form for this.
