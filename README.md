@@ -33,7 +33,7 @@ I made this project with Eclipse IDE.
 
 Right After the Tic Tac Toe AI Project in 2020, I started studying another algorithm, it was the Backtracking Algorithm. This one isn't totally finished, I wanted to add a better graphic and more features to it. With the starting of school I started to have no free time to do so. If you want you can download my code in my Java repository and add whatever feature you'd like! 
 
-<img src="https://github.com/FrancescoMaca/FrancescoMaca/blob/main/images/sudoku.png" alt="Sudoku Image" width="350" height="350">
+<img src="https://github.com/FrancescoMaca/FrancescoMaca/blob/main/images/sudoku.png" alt="Sudoku Image" width="425" height="350">
 
 ### Crypto
 ##### **Language:** C#
