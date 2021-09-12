@@ -44,7 +44,11 @@ I really like this one because of the graphics I've made and the small details I
 
 <img src="https://github.com/FrancescoMaca/FrancescoMaca/blob/main/images/Crypto.png" alt="Crypto Image" width="266" height="325" align="center"> <img src="https://github.com/FrancescoMaca/FrancescoMaca/blob/main/images/Crypto_encoding.png" alt="Crypto Encoding Image" width="266" height="325" align="center"> <img src="https://github.com/FrancescoMaca/FrancescoMaca/blob/main/images/Crypto_help.png" alt="Crypto Help Image"  width="266" height="193" align="center">
 
+Check out my [projects repository](https://github.com/FrancescoMaca?tab=repositories) to view all the projects I've created!!
+
+## Future Projects
+
 ### Algorithm Visualizer (WIP)
 ##### **Language:** C#
 
-This is an ongoing project I'll try to create a graph that monitors the sorting of an array. The user will be able to pause the sorting or to do one sorting step at the time. But all this is just features that I'll need to add in the future. I'm currently using Windows Form for this.
+This is an ongoing project I'll try to create a graph that monitors the sorting of an array. The user will be able to pause the sorting or to do one sorting step at the time. But all this is just features that I'll need to add in the future. I have in mind to use WPF for this project instead of the old WinForms.
