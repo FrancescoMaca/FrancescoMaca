@@ -52,3 +52,9 @@ Check out my [projects repository](https://github.com/FrancescoMaca?tab=reposito
 ##### **Language:** C#
 
 This is an ongoing project I'll try to create a graph that monitors the sorting of an array. The user will be able to pause the sorting or to do one sorting step at the time. But all this is just features that I'll need to add in the future. I have in mind to use WPF for this project instead of the old WinForms.
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=FrancescoMaca&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoMaca&layout=compact&theme=tokyonight)
+
+![Profile views](https://gpvc.arturio.dev/FrancescoMaca)
