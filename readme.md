@@ -56,12 +56,7 @@
   </a>
 </div>
 
-###
-
-<img align="left" height="200" src="https://i.ibb.co/gdgFxML/pfp.png"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/FrancescoMaca/FrancescoMaca/output/snake.svg" alt="Snake animation" />
-
-###
+<div align="center" style="display: flex; align-items: center;">
+  <img height="162" src="https://i.ibb.co/gdgFxML/pfp.png" />
+  <img src="https://raw.githubusercontent.com/FrancescoMaca/FrancescoMaca/snake/snake.svg" alt="Snake animation" />
+</div>
