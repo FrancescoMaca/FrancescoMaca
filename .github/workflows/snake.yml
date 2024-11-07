@@ -20,17 +20,15 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: output/snake.svg?palette=github-dark
+          outputs: dist/snake.svg?palette=github-dark
 
-      - name: Configure Git
-        run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          
-      - name: Commit and push if changed
-        run: |
-          git add output/snake.svg
-          git commit -m "Update snake animation" || exit 0
-          git push
+      - name: Push snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: snake
+          build_dir: dist
+          keep_history: true
+          committer: GitHub Actions <actions@github.com>
+          author: GitHub Actions <actions@github.com>
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
